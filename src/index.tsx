@@ -6,7 +6,8 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <h1>Search POC 🔍</h1>
+      <h1>Search POC</h1>
+      <h2>🔍🔍🔍🔍🔍🔍</h2>
     </div>
   );
 }
